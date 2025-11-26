@@ -11,6 +11,8 @@ public class MeQuieroMorir : MonoBehaviour
 
     InputAction _moveAction;
 
+    Camera _cam;
+
     InputAction _jumpAction;
 
     Vector2 _moveValue;
